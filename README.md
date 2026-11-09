@@ -100,7 +100,7 @@ Working on enterprise-scale data engineering, backend development, and digitaliz
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" title="HTML5" alt="HTML5"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" title="CSS3" alt="CSS3"/>
-
+<br/>
 **Data Engineering & Big Data**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="42" height="42" title="Apache Kafka" alt="Apache Kafka"/>
