@@ -120,13 +120,3 @@
 
 ---
 
-## 📊 GitHub Streak
-
-<div align="center">
-
-[![CommitPulse Contribution Graph for Manasvii27](https://commitpulse.vercel.app/api/streak?user=Manasvii27)](https://commitpulse.vercel.app/dashboard/Manasvii27)
-
-</div>
-
----
-
