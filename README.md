@@ -89,6 +89,7 @@ Working on enterprise-scale data engineering, backend development, and digitaliz
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" title="SQL" alt="SQL"/>
 
+
 **Backend & Frontend Development**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" title="Node.js" alt="Node.js"/>
