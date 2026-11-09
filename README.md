@@ -172,7 +172,7 @@ November 2020 – May 2024 | CGPA: 9.77
 
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=Manasvii27&show_icons=true&theme=tokyonight&hide_border=true" alt="Manasvi's GitHub Stats" />
 
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manasvii27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  
 
   <br/>
 
