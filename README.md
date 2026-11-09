@@ -1,26 +1,79 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Manasvi Rally
 
-<p>Software Engineer at AM/NS India building scalable data platforms, real-time pipelines, and self-service analytics solutions. Skilled in Python, SQL, Kafka, PySpark, Airflow, and backend development, while continuously strengthening my AI skills.</p>
+**Software Engineer | Data Engineering | Backend Development | Analytics**
+
+Building scalable data platforms, real-time streaming pipelines, and self-service analytics solutions at **ArcelorMittal Nippon Steel India Ltd.**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+scalable+data+engineering+solutions;Developing+real-time+data+pipelines+with+Kafka;Designing+centralized+data+lakes+and+analytics+platforms;Exploring+AI+and+intelligent+applications;Turning+complex+data+into+actionable+insights)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Manasvii27-181717?style=for-the-badge&logo=github)](https://github.com/Manasvii27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manasvi_Rally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasvi-rally)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rallymanasvi@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manasvii27&color=3B82F6&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 👩‍💻 About Me
 
-<div align="center">
+- 💼 Software Engineer at **ArcelorMittal Nippon Steel India Ltd. (AM/NS)**, working in the Central Automation – Digitalization Development team.
+- 🎓 B.Tech in **Computer Science and Engineering** from Bharati Vidyapeeth College of Engineering, Pune.
+- ⚙️ Experienced in building **production-grade ETL/ELT pipelines, centralized data lakes, event-driven architectures, and self-service analytics platforms**.
+- 🚀 Interested in solving real-world business problems through data engineering, backend development, and automation.
+- 🤖 Continuously strengthening my **AI/ML skills** and exploring practical applications of artificial intelligence.
+- 🌱 Passionate about learning new technologies, building impactful solutions, and improving system performance.
 
-<a href="https://github.com/Manasvii27" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="36" height="36" title="GitHub" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/manasvi-rally" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
-</a>
+---
 
-</div>
+## 💼 Professional Experience
+
+### Software Engineer | ArcelorMittal Nippon Steel India Ltd. (AM/NS)
+📍 Surat, Gujarat | September 2024 – Present
+
+Working on enterprise-scale data engineering, backend development, and digitalization initiatives.
+
+**Key Areas of Work:**
+
+- Developed a metadata-driven **Self-Service Query Builder Platform** using React, Node.js, REST APIs, and SQL Server.
+- Built a centralized **Data Lake** integrating multiple enterprise systems using MinIO, Trino, Apache Iceberg, PySpark, and Airflow.
+- Engineered real-time streaming pipelines using **Apache Kafka, Kafka Connect, and PySpark**.
+- Designed automated data workflows, secure APIs, and scalable reporting solutions.
+- Contributed to improving data accessibility, reporting efficiency, and production traceability.
+
+---
+
+## 🚀 Key Project Highlights
+
+### 1. Self-Service Query Builder Platform
+**Tech Stack:** React.js · Node.js · REST APIs · SQL Server · Git
+
+- Built a self-service dataset and reporting platform adopted by **30+ non-technical users**.
+- Reduced DBA dependency by **40%** through independent dataset and report generation.
+- Implemented secure REST APIs with Role-Based Access Control (RBAC).
+- Enabled dynamic connectivity to SQL databases, REST APIs, and Excel/CSV files.
+- Developed a metadata-driven reporting engine with Git-based query versioning.
+
+### 2. Centralized Data Lake
+**Tech Stack:** MinIO · Trino · Apache Airflow · PySpark · Apache Iceberg · SQL Server · Docker
+
+- Designed a centralized data lake integrating **4+ enterprise systems**.
+- Developed automated Airflow orchestration and PySpark batch processing pipelines.
+- Engineered product genealogy traceability across **100+ production batches**.
+- Implemented structured data models using Trino and Apache Iceberg.
+- Improved reporting efficiency and reduced reporting cycle time by **35%**.
+
+### 3. Real-Time Streaming Data Pipeline
+**Tech Stack:** Apache Kafka · Kafka Connect · PySpark · SQL Server · Python · Docker
+
+- Architected a real-time ingestion pipeline with **sub-10-second data latency**.
+- Designed event-driven architecture processing **10,000+ records daily**.
+- Managed **50+ Kafka topics and consumer groups**.
+- Improved downstream data availability by 30%.
+- Containerized pipeline services using Docker for consistent deployments.
 
 ---
 
@@ -28,95 +81,116 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
+**Programming Languages**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" title="Python" alt="Python"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript" alt="JavaScript"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" title="SQL" alt="SQL"/>
+
+**Backend & Frontend Development**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" title="Node.js" alt="Node.js"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" title="React" alt="React"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="42" height="42" title="Redux" alt="Redux"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" title="HTML5" alt="HTML5"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" title="CSS3" alt="CSS3"/>
+
+**Data Engineering & Big Data**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="42" height="42" title="Apache Kafka" alt="Apache Kafka"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="42" height="42" title="Apache Spark" alt="Apache Spark"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" title="Docker" alt="Docker"/>
+
+**Databases & Analytics**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" title="MySQL" alt="MySQL"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" title="SQL Server" alt="SQL Server"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" title="GraphQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" title="Pandas" alt="Pandas"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="40" height="40" title="Ant Design" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" title="NumPy" alt="NumPy"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40" title="Express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" title="Scikit-learn" alt="Scikit-learn"/>
+
+**Tools & Platforms**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" title="Git" alt="Git"/>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/ffffff" />
-  <img src="https://cdn.simpleicons.org/fastapi/000000" alt="FastAPI" width="40" height="40" title="FastAPI" />
-</picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" title="GitHub" alt="GitHub"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" title="Linux" alt="Linux"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" title="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" title="VS Code" alt="VS Code"/>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="40" height="40" title="Vercel" />
-</picture>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" title="Netlify" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40" title="Kubernetes" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" title="Nginx" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="Apache" width="40" height="40" title="Apache" />
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/ffffff" />
-  <img src="https://cdn.simpleicons.org/apachekafka/000000" alt="Apache Kafka" width="40" height="40" title="Apache Kafka" />
-</picture>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40" title="Windows" />
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/notion/ffffff" />
-  <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="40" height="40" title="Notion" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vite/ffffff" />
-  <img src="https://cdn.simpleicons.org/vite/000000" alt="Vite" width="40" height="40" title="Vite" />
-</picture>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" title="npm" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" title="scikit-learn" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" title="NumPy" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" title="OpenCV" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" title="Jupyter" />
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachespark/ffffff" />
-  <img src="https://cdn.simpleicons.org/apachespark/000000" alt="Apache Spark" width="40" height="40" title="Apache Spark" />
-</picture>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" title="Unity" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" title="Jupyter" alt="Jupyter"/>
+
+</div>
+
+### Technologies I Work With
+
+- **Data Engineering:** Apache Kafka, PySpark, Apache Airflow, Trino, Apache Iceberg, MinIO.
+- **Backend:** Python, Node.js, REST APIs, JWT Authentication, OOP.
+- **Frontend:** React.js, Redux, JavaScript, HTML5, CSS3.
+- **Databases:** SQL Server, MySQL.
+- **Analytics & AI:** Power BI, Pandas, NumPy, Scikit-learn, Machine Learning fundamentals.
+- **DevOps & Tools:** Docker, Git, Linux.
+
+---
+
+## 🤖 AI & Continuous Learning
+
+Currently expanding my knowledge and practical skills in:
+
+- Artificial Intelligence and Machine Learning.
+- Generative AI and practical AI applications.
+- AI-powered automation and intelligent data solutions.
+- Advanced data processing and distributed systems.
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science and Engineering**  
+Bharati Vidyapeeth College of Engineering, Pune  
+November 2020 – May 2024 | CGPA: 9.77
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manasvii27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Manasvi's GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasvii27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Manasvii27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+## 🌱 Beyond Technology
+
+- 👩‍💼 Former **President of Rotaract Club of Pune's Yuva (RIY 2023–24)**.
+- 🤝 Interested in leadership, teamwork, collaboration, and community initiatives.
+- 📚 Always curious about emerging technologies and opportunities to learn.
+
+---
+
+<div align="center">
+
+### "Turning data into insights, ideas into solutions, and learning into impact."
+
+**Thanks for visiting my profile!**
+
+</div>
