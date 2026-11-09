@@ -143,14 +143,18 @@ November 2020 – May 2024 | **CGPA: 9.77/10**
 
 <div align="center">
 
-<a href="https://github.com/Manasvii27">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Manasvii27&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Manasvi's GitHub statistics" />
-</a>
-<a href="https://github.com/Manasvii27">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Manasvii27&theme=tokyonight&hide_border=true" alt="Manasvi's GitHub contribution streak" />
-</a>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Manasvii27&show_icons=true&theme=tokyonight&hide_border=true" alt="Manasvi's GitHub Stats" />
+
+  
+
+  <br/>
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=Manasvii27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+
 
 ---
 
