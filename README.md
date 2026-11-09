@@ -165,17 +165,21 @@ November 2020 – May 2024 | CGPA: 9.77
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manasvii27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Manasvi's GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Manasvii27&show_icons=true&theme=tokyonight&hide_border=true" alt="Manasvi's GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasvii27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manasvii27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Manasvii27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=Manasvii27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
